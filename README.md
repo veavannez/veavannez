@@ -1,104 +1,55 @@
-# <div align="center">vea vannez</div>
-
 <div align="center">
 
-crafting immersive digital experiences through thoughtful design & experimental engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d291ff,100:ffb6f9&height=180&section=header&text=veavannez.exe&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&pause=2200&color=777777&center=true&vCenter=true&width=650&lines=building+playful+systems;designing+cinematic+interfaces;creating+immersive+web+experiences;shipping+ambitious+ideas+fast" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=2000&color=F8D4FF&center=true&vCenter=true&width=700&lines=welcome+to+my+little+internet+space;designer+%E2%99%A1+developer+%E2%99%A1+dreamer;building+immersive+digital+experiences"/>
 
-<br/>
+<br/><br/>
 
-[portfolio](#) • [linkedin](#) • [selected work](#selected-work)
+<img src="https://komarev.com/ghpvc/?username=veavannez&style=flat-square&color=ffb6f9"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2d2d2d&height=2&section=header" width="100%"/>
-
-</div>
-
-## interface
-
-<div align="center">
-
-```txt
-┌─────────────────────────────────────────────┐
-│  vea.os                                    │
-├─────────────────────────────────────────────┤
-│  status      : online                      │
-│  focus       : immersive product systems   │
-│  currently   : building Sandbox            │
-│  aesthetic   : cinematic minimalism        │
-│  mode        : experimenting               │
-└─────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## about
-
-<details>
-<summary>open profile</summary>
-
-<br/>
-
-i enjoy building products that feel tactile, cinematic, and slightly unexpected.
-
-currently focused on:
-
-* interactive ui systems
-* ai-assisted experiences
-* creative developer tooling
-* immersive storytelling through interfaces
-* product design that feels playful and intentional
-
-most of my projects start as experiments and slowly evolve into fully realized systems.
-
-</details>
-
----
-
-## experience map
 
 <table>
 <tr>
-<td align="center">
+<td width="60%" valign="top">
 
-### 🎨 design
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-lain.gif" width="100%"/>
 
-immersive
-minimal
-playful
-cinematic
+### hi, i'm vea ♡
+
+```txt
+designer at heart
+developer by obsession
+building dreamy digital systems
+currently making Sandbox
+```
+
+♡ product design
+♡ interactive systems
+♡ ai experiences
+♡ immersive interfaces
 
 </td>
-<td align="center">
 
-### ⚡ engineering
+<td width="40%" valign="top">
 
-interactive
-experimental
-system-driven
-fast iteration
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sb6fevjcj5fsifxw4d7dznr3hq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true"/>
 
-</td>
-<td align="center">
+<br/>
 
-### 🧠 interests
+### now playing 🎧
 
-ai systems
-storytelling
-ui motion
-creative tooling
+```txt
+shoegaze
+dream pop
+ambient
+late night coding playlists
+```
 
 </td>
 </tr>
@@ -106,242 +57,134 @@ creative tooling
 
 ---
 
-## selected work
+# ✧ featured projects
 
-<details>
-<summary>🏖️ Sandbox — deployment risk simulation engine</summary>
+<table>
+<tr>
 
-<br/>
+<td width="33%">
 
-```txt
-Sandbox simulates production deployment failures
-before systems ever reach production.
-```
-
-### core systems
-
-| system             | functionality                    |
-| ------------------ | -------------------------------- |
-| simulation engine  | predicts deployment instability  |
-| cinematic analysis | visualized system breakdowns     |
-| ai reasoning       | interprets production risks      |
-| retro ui layer     | immersive interactive experience |
-
-### themes
-
-* production chaos visualization
-* playful developer experience
-* cinematic system storytelling
-* experimental product interfaces
-
-</details>
-
-<br/>
-
-<details>
-<summary>⚡ experimental interface systems</summary>
-
-<br/>
-
-currently exploring:
+### 🏖️ Sandbox
 
 ```txt
-interactive landing pages
-ai-assisted workflows
-motion-driven interfaces
-immersive onboarding systems
-playful interaction design
+AI deployment
+risk simulation engine
 ```
 
-</details>
+simulate • stress test • deploy smarter
+
+</td>
+
+<td width="33%">
+
+### 🌙 Dream Machine
+
+```txt
+immersive web
+experiences &
+visual systems
+```
+
+creative coding • interaction • motion
+
+</td>
+
+<td width="33%">
+
+### 💿 Cavetown
+
+```txt
+cozy experimental
+creative corner
+```
+
+scrapbook internet energy
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## interaction layer
+# ♡ currently
 
-<div align="center">
-
-| mode                    | status   |
-| ----------------------- | -------- |
-| building                | ● active |
-| designing               | ● active |
-| experimenting           | ● active |
-| overthinking ui details | ● always |
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veavannez&bg_color=0d1117&color=ffb6f9&line=d291ff&point=ffffff&area=true&hide_border=true"/>
 
 ---
-
-## now
-
-```txt
-currently:
-├─ building Sandbox
-├─ exploring cinematic product interfaces
-├─ experimenting with ai-assisted workflows
-├─ refining interaction systems
-└─ designing immersive developer experiences
-```
-
----
-
-## philosophy
 
 <details>
-<summary>design principles</summary>
+<summary>🩷 little things about me</summary>
 
 <br/>
 
-* products should feel intentional
-* interfaces should reward curiosity
-* motion should enhance clarity
-* systems should tell stories
-* experimentation creates memorable experiences
-* good software should feel alive
+* film camera hoarder
+* collects strange ui inspiration
+* loves tactile interfaces
+* listens to music while building
+* obsessed with immersive experiences
+* probably redesigning something unnecessarily
 
 </details>
 
 ---
 
-## tech stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" />
-<img src="https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase" />
-<img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma" />
-
-</div>
-
----
-
-## interaction logs
-
 <details>
-<summary>system status</summary>
+<summary>💌 interaction corner</summary>
 
 <br/>
 
 ```txt
-sandbox.os v2.4 initialized
-
-status:
-[online] interface systems
-[online] simulation engine
-[online] experimental workflows
-[active] cinematic ui exploration
-[active] product iteration
+hover around.
+click things.
+explore a little.
 ```
+
+♡ thanks for being here
 
 </details>
 
 ---
 
-## live dashboard
+# ✦ tech stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=veavannez&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=4" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,supabase,figma,vercel"/>
 
-<br/>
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=veavannez&show_icons=true&hide_border=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veavannez&bg_color=ffffff&color=555555&line=111111&point=888888&area=true&hide_border=true" width="95%"/>
-
-</div>
+</p>
 
 ---
 
-## github activity
+# 🎵 playlists for different versions of me
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=veavannez&show_icons=true&hide_border=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=ffffff" />
-
-</div>
-
----
-
-## hidden panels
-
-<details>
-<summary>🎧 current creative fuel</summary>
-
-<br/>
-
-```txt
-late-night building sessions
-minimal product design
-retro-inspired ui systems
-ambient playlists
-experimental web experiences
-```
-
-</details>
-
-<details>
-<summary>🧪 current obsessions</summary>
-
-<br/>
-
-* interaction design
-* tactile interfaces
-* cinematic storytelling
-* ai-native workflows
-* products with personality
-
-</details>
-
-<details>
-<summary>🛰️ sandbox telemetry</summary>
-
-<br/>
-
-```txt
-simulations executed: ██████████ 92%
-interface polish:     ████████░░ 80%
-creative chaos:       ██████████ 100%
-sleep schedule:       ██░░░░░░░░ unstable
-```
-
-</details>
-
----
-
-## currently exploring
-
-* ai-native product experiences
-* cinematic interaction systems
-* retro-inspired ui design
-* immersive onboarding flows
-* experimental web interfaces
-* playful system storytelling
-
----
-
-## fun things i like building
-
-```txt
-▣ simulation engines
-▣ weird interface experiments
-▣ immersive landing pages
-▣ design-heavy developer tools
-▣ interactive storytelling systems
-▣ products with personality
-```
+| mood                  | playlist     |
+| --------------------- | ------------ |
+| late night coding     | [spotify](#) |
+| dreamy train rides    | [spotify](#) |
+| existential debugging | [spotify](#) |
+| building weird things | [spotify](#) |
 
 ---
 
 <div align="center">
 
-minimal systems • immersive experiences • thoughtful interaction
+### let's connect ♡
+
+<a href="https://github.com/veavannez">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<br/><br/>
+
+made with ♡ by veavannez
 
 </div>
