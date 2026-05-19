@@ -1,14 +1,15 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d291ff,100:ffb6f9&height=180&section=header&text=veavannez.exe&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E6B3FF&height=180&section=header&text=welcome%20to%20my%20space&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=2000&color=F8D4FF&center=true&vCenter=true&width=700&lines=welcome+to+my+little+internet+space;designer+%E2%99%A1+developer+%E2%99%A1+dreamer;building+immersive+digital+experiences"/>
+---
 
-<br/><br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=veavannez&style=flat-square&color=ffb6f9"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=2000&color=E8A1FF&center=true&vCenter=true&width=700&lines=designer+%E2%99%A1+developer+%E2%99%A1+daydreamer;building+immersive+digital+experiences;currently+building+Sandbox"/>
 
 </div>
 
@@ -16,39 +17,41 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-lain.gif" width="100%"/>
+## ♡ about me
 
-### hi, i'm vea ♡
+<img src="YOUR_COLLAGE_IMAGE_HERE" width="100%"/>
 
 ```txt
-designer at heart
-developer by obsession
-building dreamy digital systems
-currently making Sandbox
-```
+hi, i'm vea ♡
 
-♡ product design
-♡ interactive systems
-♡ ai experiences
-♡ immersive interfaces
+product designer
+full-stack developer
+creative technologist
+simulation enjoyer
+
+i build digital experiences
+that feel like memories.
+````
 
 </td>
 
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sb6fevjcj5fsifxw4d7dznr3hq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true"/>
+## ♫ now playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOURSPOTIFYID\&cover_image=true\&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOURSPOTIFYID&redirect=true)
 
 <br/>
 
-### now playing 🎧
+## ♡ currently
 
 ```txt
-shoegaze
-dream pop
-ambient
-late night coding playlists
+> building Sandbox
+> exploring immersive UI
+> listening to shoegaze
+> collecting inspiration
 ```
 
 </td>
@@ -57,21 +60,19 @@ late night coding playlists
 
 ---
 
-# ✧ featured projects
+# ✿ featured projects
 
 <table>
 <tr>
 
 <td width="33%">
 
-### 🏖️ Sandbox
+### 🏖 Sandbox
 
-```txt
-AI deployment
+AI-powered deployment
 risk simulation engine
-```
 
-simulate • stress test • deploy smarter
+[view project →](#)
 
 </td>
 
@@ -79,26 +80,21 @@ simulate • stress test • deploy smarter
 
 ### 🌙 Dream Machine
 
-```txt
-immersive web
-experiences &
-visual systems
-```
+interactive visuals &
+experimental systems
 
-creative coding • interaction • motion
+[view project →](#)
 
 </td>
 
 <td width="33%">
 
-### 💿 Cavetown
+### 💿 CAVETOWN
 
-```txt
-cozy experimental
-creative corner
-```
+a cozy corner for
+creative experiments
 
-scrapbook internet energy
+[view project →](#)
 
 </td>
 
@@ -107,84 +103,70 @@ scrapbook internet energy
 
 ---
 
-# ♡ currently
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veavannez&bg_color=0d1117&color=ffb6f9&line=d291ff&point=ffffff&area=true&hide_border=true"/>
-
----
+# ♡ interactive corner
 
 <details>
-<summary>🩷 little things about me</summary>
-
-<br/>
-
-* film camera hoarder
-* collects strange ui inspiration
-* loves tactile interfaces
-* listens to music while building
-* obsessed with immersive experiences
-* probably redesigning something unnecessarily
-
-</details>
-
----
-
-<details>
-<summary>💌 interaction corner</summary>
+<summary>click me!</summary>
 
 <br/>
 
 ```txt
-hover around.
-click things.
-explore a little.
+you found the hidden panel ✨
 ```
 
-♡ thanks for being here
+🌸 favorite music:
+
+* Cigarettes After Sex
+* Beach House
+* Lord Huron
+* Mazzy Star
+
+🎧 favorite vibe:
+late-night coding + ambient music
 
 </details>
 
 ---
 
-# ✦ tech stack
+# ✦ github activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,supabase,figma,vercel"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=veavannez&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E6B3FF&icon_color=E6B3FF&text_color=ffffff"/>
 
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=veavannez&bg_color=0d1117&color=E6B3FF&line=FFB6EC&point=ffffff&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🎵 playlists for different versions of me
+# ♡ visitors
 
-| mood                  | playlist     |
-| --------------------- | ------------ |
-| late night coding     | [spotify](#) |
-| dreamy train rides    | [spotify](#) |
-| existential debugging | [spotify](#) |
-| building weird things | [spotify](#) |
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=veavannez\&color=ff69b4\&style=flat-square)
+
+</div>
+
+---
+
+# ✿ tech stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Tailwind-1a1a1a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### let's connect ♡
-
-<a href="https://github.com/veavannez">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<br/><br/>
-
-made with ♡ by veavannez
+made with ♡ by vea
 
 </div>
+```
